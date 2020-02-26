@@ -1,3 +1,3 @@
 <?php
-    echo "Ayam goreng enak";
+    echo "Sedang belajar GIT";
 ?>
