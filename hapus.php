@@ -16,7 +16,10 @@
     echo "Ini file yang akan dihapus";
 ?>
 <p>1. Ayam Goreng Enak<br/></p>
+<p>3. Rendang Goreng Enak<br/></p>
 <p>2. Ikan Goreng Enak<br/></p>
+<p>3. Rendang Goreng Enak<br/></p>
+<p>1. Ayam Goreng Enak<br/></p>
 <p>3. Rendang Goreng Enak<br/></p>
 </body>
 </html>
